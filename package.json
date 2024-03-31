@@ -1,0 +1,14 @@
+{
+  "name": "gifylapse",
+  "version": "1.1.0",
+  "description": "Gif making website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmad Abdullah Tariq",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
