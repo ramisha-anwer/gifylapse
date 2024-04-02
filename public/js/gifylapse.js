@@ -4,7 +4,7 @@ var output = document.getElementById('image');
 
 
 var logo_image = new Image();
-logo_image.src = 'static/img/gifylapse.png'; 
+logo_image.src = 'public/img/gifylapse.png'; 
 logo_image.height = 32;
 logo_image.width = 32;
 logo_image.crossOrigin = 'Anonymous';
