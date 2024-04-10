@@ -4,7 +4,7 @@ var path = require('path');
 
 // variables ==============================================================================================
 var app = express();
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 3001;
 
 // config ==============================================================================================
 // allow cors (not production settings)
